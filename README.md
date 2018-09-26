@@ -1,4 +1,4 @@
-# Final_Project-
+# EE120B Final_Project-
 Proposal
 The final project that I will be workingg on is the jukebox. ﻿﻿The components I will be using are 3 buttons, LCD screen, breadboard, jumper cables, power, micro-controller. If time allows I would like to play with the design so that this actually looks like a jukebox if not I will just play it on my breadboard. a description of this is to have LCD display a welcome sign until the user starts toggling the buttons. Upon touching the (left and right buttons there will display a menu to choose music. There will also be one button for stop and one button for start. If there is time i will implement the feature that reacts to the song. I may use the LCD or just use some LEDs.
 
